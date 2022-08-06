@@ -12,11 +12,11 @@ namespace UnitTest1
             UserRegistration pattern = new UserRegistration();
 
             bool expected = true;
-            string LastName = "Hemant";
+            string Email = "hemantdhurve@gmail.com";
 
             //Act
 
-            bool var = pattern.validateString(LastName);
+            bool var = pattern.validateString(Email);
 
             //Assert
 

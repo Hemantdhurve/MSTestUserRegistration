@@ -5,14 +5,14 @@ Console.WriteLine("Hello, Welcome to REGEX User Registration Problems");
 
 UserRegistration obj = new UserRegistration();
 
-Console.WriteLine("Please enter the last name :");
-string LastName = Console.ReadLine();
+Console.WriteLine("Please enter the Email address :");
+string Email = Console.ReadLine();
 
-if (obj.validateString(LastName))
+if (obj.validateString(Email))
 {
-    Console.WriteLine("Entered name is valid:" + LastName);
+    Console.WriteLine("Entered name is valid:" + Email);
 }
 else
 {
-    Console.WriteLine("Entered name is invalid please try again :" + LastName);
+    Console.WriteLine("Entered name is invalid please try again :" + Email);
 }
