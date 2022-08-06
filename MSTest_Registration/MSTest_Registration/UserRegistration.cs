@@ -9,13 +9,13 @@ namespace MSTest_Registration
 {
     public class UserRegistration
     {
-        public static string PasswordRule1 = "^[a-zA-Z]{8}$";
+        public static string PasswordRule2 = "(?=.*[A-Z])?[a-zA-Z]{8}";
 
 
 
         public bool validateString(string sample)
         {
-            return Regex.IsMatch(sample, PasswordRule1);
+            return Regex.IsMatch(sample, PasswordRule2);
         }
     }
 }
