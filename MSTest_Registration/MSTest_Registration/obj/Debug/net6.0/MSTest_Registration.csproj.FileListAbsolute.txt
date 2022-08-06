@@ -1,0 +1,15 @@
+F:\VisualStudio\source\repos\MSTest_Registration\MSTest_Registration\bin\Debug\net6.0\MSTest_Registration.exe
+F:\VisualStudio\source\repos\MSTest_Registration\MSTest_Registration\bin\Debug\net6.0\MSTest_Registration.deps.json
+F:\VisualStudio\source\repos\MSTest_Registration\MSTest_Registration\bin\Debug\net6.0\MSTest_Registration.runtimeconfig.json
+F:\VisualStudio\source\repos\MSTest_Registration\MSTest_Registration\bin\Debug\net6.0\MSTest_Registration.dll
+F:\VisualStudio\source\repos\MSTest_Registration\MSTest_Registration\bin\Debug\net6.0\MSTest_Registration.pdb
+F:\VisualStudio\source\repos\MSTest_Registration\MSTest_Registration\obj\Debug\net6.0\MSTest_Registration.csproj.AssemblyReference.cache
+F:\VisualStudio\source\repos\MSTest_Registration\MSTest_Registration\obj\Debug\net6.0\MSTest_Registration.GeneratedMSBuildEditorConfig.editorconfig
+F:\VisualStudio\source\repos\MSTest_Registration\MSTest_Registration\obj\Debug\net6.0\MSTest_Registration.AssemblyInfoInputs.cache
+F:\VisualStudio\source\repos\MSTest_Registration\MSTest_Registration\obj\Debug\net6.0\MSTest_Registration.AssemblyInfo.cs
+F:\VisualStudio\source\repos\MSTest_Registration\MSTest_Registration\obj\Debug\net6.0\MSTest_Registration.csproj.CoreCompileInputs.cache
+F:\VisualStudio\source\repos\MSTest_Registration\MSTest_Registration\obj\Debug\net6.0\MSTest_Registration.dll
+F:\VisualStudio\source\repos\MSTest_Registration\MSTest_Registration\obj\Debug\net6.0\refint\MSTest_Registration.dll
+F:\VisualStudio\source\repos\MSTest_Registration\MSTest_Registration\obj\Debug\net6.0\MSTest_Registration.pdb
+F:\VisualStudio\source\repos\MSTest_Registration\MSTest_Registration\obj\Debug\net6.0\MSTest_Registration.genruntimeconfig.cache
+F:\VisualStudio\source\repos\MSTest_Registration\MSTest_Registration\obj\Debug\net6.0\ref\MSTest_Registration.dll
