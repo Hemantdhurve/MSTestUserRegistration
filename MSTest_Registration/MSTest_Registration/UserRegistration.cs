@@ -9,11 +9,13 @@ namespace MSTest_Registration
 {
     public class UserRegistration
     {
-        public static string FirstName = "^[A-Z][a-z]{2,15}$";
+        public static string LastName = "^[A-Z][a-z]{2,15}$";
+
+
 
         public bool validateString(string sample)
         {
-            return Regex.IsMatch(sample, FirstName);
+            return Regex.IsMatch(sample, LastName);
         }
     }
 }
