@@ -6,17 +6,17 @@ namespace UnitTest1
     public class UnitTest1
     {
         [TestMethod]
-        public void TestPasswordRule3()
+        public void TestPasswordRule4()
         {
             //Arrange
             UserRegistration pattern = new UserRegistration();
 
             bool expected = true;
-            string PasswordRule3 = "iTriedok9";
+            string PasswordRule4 = "iTriedok9$";
 
             //Act
 
-            bool var = pattern.validateString(PasswordRule3);
+            bool var = pattern.validateString(PasswordRule4);
 
             //Assert
 
